@@ -1,0 +1,1 @@
+This directory contains visualizations generated throughout the credit card transaction forecasting project. These figures support exploratory analysis, model evaluation, interpretability, and final reporting. Each plot highlights a different aspect of the model’s performance or the underlying time series behavior.
